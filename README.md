@@ -1,2 +1,2 @@
 # vim-mnmlist
-A minimalist light colorscheme for vim
+> A minimalist light colorscheme for vim
