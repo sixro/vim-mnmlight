@@ -15,9 +15,9 @@ I created it for me, but if someone else need something like this, you're welcom
 I customized a little bit the scheme for the major filetypes I am using at the moment: `.java` and `.md` (markdown).
 
 ## <a name="screenshots"></a>Screenshots
-Editing `.vimrc`:
+**Editing `.vimrc`**
 ![.vimrc](docs/screenshot-vimrc.png ".vimrc")
-Editing Markdown:
+**Editing Markdown**
 ![Markdown](docs/screenshot-markdown.png "Markdown")
-Editing Java Code:
+**Editing Java Code**
 ![Java Code](docs/screenshot-javacode.png "Java Code")
