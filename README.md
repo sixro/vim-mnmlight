@@ -4,6 +4,7 @@
 ## Summary
   * [Introduction](#intro)
   * [Screenshots](#screenshots)
+  * [Credits](#credits)
 
 ## <a name="intro"></a>Introduction
 I liked using dark colorscheme in vim and in others IDE for all my file.  
@@ -21,3 +22,7 @@ I customized a little bit the scheme for the major filetypes I am using at the m
 ![Markdown](docs/screenshot-markdown.png "Markdown")
 **Editing Java Code**
 ![Java Code](docs/screenshot-javacode.png "Java Code")
+
+## <a name="credits"></a>Credits
+I have to thanks a Stackoverflow user named [romainl](https://stackoverflow.com/users/546861/romainl), 
+because he helped me in [fixing some issues with colors I had on markdown](https://stackoverflow.com/questions/67658596/how-to-change-colors-of-local-anchors-in-headers).
