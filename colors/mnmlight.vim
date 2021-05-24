@@ -19,6 +19,9 @@ hi Todo ctermfg=15 ctermbg=34
 
 hi Visual ctermfg=0 ctermbg=11
 hi LineNr ctermfg=247 ctermbg=255
+" Used for listchars
+hi SpecialKey ctermfg=250
+hi NonText ctermfg=250
 
 " ==  Java  ============================================================
 " Setup java syntax in a way where javadoc remains as a comment
