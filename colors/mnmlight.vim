@@ -20,6 +20,9 @@ hi Todo ctermfg=15 ctermbg=34
 hi Visual ctermfg=0 ctermbg=11
 hi LineNr ctermfg=247 ctermbg=255
 
+" Setup java syntax in a way where javadoc remains as a comment
+let java_ignore_javadoc=1
+
 " See here for java syntax: https://github.com/vim/vim/blob/master/runtime/syntax/java.vim
 hi def link javaStorageClass Statement
 hi def link javaClassDecl Statement
