@@ -5,6 +5,6 @@
   * [Screenshots](#screenshots)
 
 ## <a name="screenshots"></a>Screenshots
-![Java Code](doc/screenshot-javacode.png "Java Code")
+![Java Code](docs/screenshot-javacode.png "Java Code")
 
-![.vimrc](doc/screenshot-vimrc.png ".vimrc")
+![.vimrc](docs/screenshot-vimrc.png ".vimrc")
