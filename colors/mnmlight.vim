@@ -60,3 +60,5 @@ hi def link htmlTagName Comment
 hi def link htmlString  Comment
 hi def link htmlArg     Comment
 hi def link htmlEndTag  Comment
+
+hi def link vimCommentTitle Comment
